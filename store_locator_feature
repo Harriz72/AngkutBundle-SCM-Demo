@@ -1,0 +1,13 @@
+echo "Created database schema for store locations" >> commit-log.txt
+git add commit-log.txt
+git commit -m "feat: add database schema for store locations"
+
+
+echo "Integrated Google Maps API for store locator" >> commit-log.txt
+git add commit-log.txt
+git commit -m "feat: integrate Google Maps API for store locator"
+
+
+echo "Implemented frontend map display for store locator" >> commit-log.txt
+git add commit-log.txt
+git commit -m "feat: add frontend map display for store locator"
