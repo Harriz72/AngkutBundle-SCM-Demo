@@ -1,1 +1,4 @@
 echo "Implemented subscription model for Angkut Membership" >> commit-log.txt
+
+
+echo "Updated product display for member-exclusive products" >> commit-log.txt
