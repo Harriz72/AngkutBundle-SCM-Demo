@@ -1,0 +1,3 @@
+echo "Implemented subscription model for Angkut Membership" >> commit-log.txt
+git add commit-log.txt
+git commit -m "feat: add subscription model for Angkut Membership"
