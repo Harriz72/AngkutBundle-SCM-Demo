@@ -1,2 +1,4 @@
 echo "Created database schema for store locations" >> commit-log.txt
 
+
+echo "Integrated Google Maps API for store locator" >> commit-log.txt
