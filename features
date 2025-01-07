@@ -1,2 +1,4 @@
 echo "Created database schema for wishlist items" >> commit-log.txt
 
+
+echo "Implemented backend API for managing wishlist" >> commit-log.txt
