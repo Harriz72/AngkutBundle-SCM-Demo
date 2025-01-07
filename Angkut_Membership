@@ -1,14 +1,6 @@
 echo "Implemented subscription model for Angkut Membership" >> commit-log.txt
-git add commit-log.txt
-git commit -m "feat: add subscription model for Angkut Membership"
-
 
 
 echo "Updated product display for member-exclusive products" >> commit-log.txt
-git add commit-log.txt
-git commit -m "feat: update product display for member-exclusive products"
-
 
 echo "Implemented personalized recommendations based on user behavior" >> commit-log.txt
-git add commit-log.txt
-git commit -m "feat: add personalized recommendations"
